@@ -1,0 +1,9 @@
+Mean Apples: 6.388888888888889
+Median Apples: 6.5
+Mode Apples: [5, 8]
+Mean Bananas: 6.5
+Median Bananas: 7.0
+Mode Bananas: [9]
+Mean Strawberries: 5.0
+Median Strawberries: 5.5
+Mode Strawberries: [6]
